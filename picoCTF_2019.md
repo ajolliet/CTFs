@@ -8,7 +8,7 @@ PicoCTF is **the first** CTF I have _ever_ participated in! Thanks to my friend 
 
 Since this is my first CTF, I started out rather anxious -- though it turns out some of the challenges were more than approachable enough for me to handle. The CTF itself does a nice job of ramping itself up slowly, as to keep challenging new participants without making them feel like total n00bs.
 
-I'm gonna try to approach this writeup as a service to my past and future self, since most likely no one is ever going to read this, and as a way to document my progress over this week. (Note that I'm writing this introductory background section on a Tuesday, and I started hacking away on a Sunday. For everyone's sake, I'll skip the _easy_ challenges that don't require much thought.
+I'm gonna try to approach this writeup as a service to my past and future self, since most likely no one is ever going to read this, and as a way to document my progress over this week. (Note that I'm writing this introductory background section on a Tuesday, and I started hacking away on a Sunday.) For everyone's sake, I'll skip the _easy_ challenges that don't require much thought.
 
 ### whats-the-difference (200 point challenge)
 
