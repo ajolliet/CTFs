@@ -40,7 +40,7 @@ However, being new at this hacking thing, I probably overthought things way too 
 - Or, do I invoke `diff` first and try to pass it hex as input?
    - Moreover, *how* do I pass the files to `diff` and make sure they are in hex/ASCII at the same time? Doing `diff kitters.jpg cattos.jpg` wouldn't get me anywhere, because I hadn't dumped the hex before passing the files over to `diff`. What a headache...
 
-#### What I tried
+#### What I tried (that didn't work)
 
 At first, I tried a few things, but none of them worked. As it was already 11:30 PM and I was getting frustrated, I decided to call it a day and head to bed. Here are things that **didn't** work and the accompanying thoughts.
 
