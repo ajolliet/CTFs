@@ -1,5 +1,7 @@
 # picoCTF 2019
 
+The picoCTF 2019 competition runs from September 27, 2019 12:00PM EST to October 11, 2019 12:00PM EST.
+
 ## Background
 
 PicoCTF is **the first** CTF I have _ever_ participated in! Thanks to my friend and colleague Keanu (hitosis) for creating a CTF group/team at our work, without him I would never have had the inkling to participate!
